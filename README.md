@@ -5,9 +5,12 @@ A personal data analytics and machine learning project that provides information
 *This repository will change overtime, new ideas will be added and removed.*
 
 ## Notes
+
 - Predict
     - Player Similarities ✅
 - Utilize Cloud Technologies
     - Amazon Web Services
 
-06/30: Develop a cosine similarity model that is able to determine similar playstyles.
+---
+### 06/30
+- Use cosine similarity and KNN to determine similar athlete stats.
